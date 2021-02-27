@@ -1,7 +1,7 @@
 <div class="list row">
   <div class="col-md-6">
     <h4>Tutorials List</h4>
-    <ul class="list-group">
+    <!-- <ul class="list-group">
       <li
         class="list-group-item"
         *ngFor="let tutorial of tutorials; let i = index"
@@ -10,7 +10,23 @@
       >
         {{ tutorial.title }}
       </li>
-    </ul>
+    </ul> -->
+    <div
+      class="card bg-light md-6"
+      style="max-width: 18rem"
+      *ngFor="let tutorial of tutorials; let i = index"
+    >
+      <div class="card-header">{{ tutorial.title }}</div>
+      <div class="card-body">
+        <h5 class="card-title">{{ tutorial.description }}</h5>
+        <button
+          (click)="setActiveTutorial(tutorial, i)"
+          class="btn btn-primary"
+        >
+          Show
+        </button>
+      </div>
+    </div>
   </div>
   <div class="col-md-6">
     <div *ngIf="currentTutorial">
