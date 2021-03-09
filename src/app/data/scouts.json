@@ -1,0 +1,392 @@
+{
+  "scouts": [
+    {
+      "tenderfoot": [
+        {
+          "id": "tenderfoot-01-a",
+          "rank": "tenderfoot",
+          "sequence": "1",
+          "letter": "a",
+          "requirement": "1a. Present yourself to your leader, prepared for an overnight camping trip. Show the personal and camping gear you will use. Show the right way to pack and carry it. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-01-b",
+          "rank": "tenderfoot",
+          "sequence": "1",
+          "letter": "b",
+          "requirement": "1b. Spend at least one night on a patrol or troop campout. Sleep in a tent you have helped pitch. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-01-c",
+          "rank": "tenderfoot",
+          "sequence": "1",
+          "letter": "c",
+          "requirement": "1c. Tell how you practiced the Outdoor Code on a campout or outing. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-02-a",
+          "rank": "tenderfoot",
+          "sequence": "2",
+          "letter": "a",
+          "requirement": "2a. On the campout, assist in preparing one of the meals. Tell why it is important for each patrol member to share in meal preparation and cleanup. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-02-b",
+          "rank": "tenderfoot",
+          "sequence": "2",
+          "letter": "b",
+          "requirement": "2b. While on a campout, demonstrate the appropriate method of safely cleaning items used to prepare, serve, and eat a meal. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-02-c",
+          "rank": "tenderfoot",
+          "sequence": "2",
+          "letter": "c",
+          "requirement": "2c. Explain the importance of eating together as a patrol. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-03-a",
+          "rank": "tenderfoot",
+          "sequence": "3",
+          "letter": "a",
+          "requirement": "3a. Demonstrate a practical use of the square knot. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-03-b",
+          "rank": "tenderfoot",
+          "sequence": "3",
+          "letter": "b",
+          "requirement": "3b. Demonstrate a practical use of two half-hitches. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-03-c",
+          "rank": "tenderfoot",
+          "sequence": "3",
+          "letter": "c",
+          "requirement": "3c. Demonstrate a practical use of the taut-line hitch. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-03-d",
+          "rank": "tenderfoot",
+          "sequence": "3",
+          "letter": "d",
+          "requirement": "3d. Demonstrate proper care, sharpening, and use of the knife, saw, and ax. Describe when each should be used. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-04-a",
+          "rank": "tenderfoot",
+          "sequence": "4",
+          "letter": "a",
+          "requirement": "4a. Show first aid for the following: ",
+          "steps": [
+            { "id": "tenderfoot-1-a1", "task": "Simple cuts and scrapes" },
+            {
+              "id": "tenderfoot-1-a2",
+              "task": "Blisters on the hand and foot"
+            },
+            {
+              "id": "tenderfoot-1-a3",
+              "task": "Minor (thermal/heat) burns or scalds (superficial, or first-degree)"
+            },
+            {
+              "id": "tenderfoot-1-a4",
+              "task": "Bites or stings of insects and ticks"
+            },
+            { "id": "tenderfoot-1-a5", "task": "Venomous snakebite" },
+            { "id": "tenderfoot-1-a6", "task": "Nosebleed" },
+            { "id": "tenderfoot-1-a7", "task": "Frostbite and sunburn" },
+            { "id": "tenderfoot-1-a8", "task": "Choking" }
+          ],
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-04-b",
+          "rank": "tenderfoot",
+          "sequence": "4",
+          "letter": "b",
+          "requirement": "4b. Describe common poisonous or hazardous plants; identify any that grow in your local area or campsite location. Tell how to treat for exposure to them. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-04-c",
+          "rank": "tenderfoot",
+          "sequence": "4",
+          "letter": "c",
+          "requirement": "4c. Tell what you can do while on a campout or other outdoor activity to prevent or reduce the occurrence of injuries or exposure listed in Tenderfoot requirements 4a and 4b. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-04-d",
+          "rank": "tenderfoot",
+          "sequence": "4",
+          "letter": "d",
+          "requirement": "4d. Assemble a personal first-aid kit to carry with you on future campouts and hikes. Tell how each item in the kit would be used. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-05-a",
+          "rank": "tenderfoot",
+          "sequence": "5",
+          "letter": "a",
+          "requirement": "5a. Explain the importance of the buddy system as it relates to your personal safety on outings and in your neighborhood. Use the buddy system while on a troop or patrol outing. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-05-b",
+          "rank": "tenderfoot",
+          "sequence": "5",
+          "letter": "b",
+          "requirement": "5b. Describe what to do if you become lost on a hike or campout. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-05-c",
+          "rank": "tenderfoot",
+          "sequence": "5",
+          "letter": "c",
+          "requirement": "5c. Explain the rules of safe hiking, both on the highway and cross country, during the day and at night. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-06-a",
+          "rank": "tenderfoot",
+          "sequence": "6",
+          "letter": "a",
+          "requirement": "6a. Record your best in the following tests:",
+          "steps": [
+            {
+              "id": "tenderfoot-6-a1",
+              "task": "Pushups (Record the number done correctly in 60 seconds.)"
+            },
+            {
+              "id": "tenderfoot-6-a2",
+              "task": "Situps or curl-ups (Record the number done correctly in 60 seconds.)"
+            },
+            {
+              "id": "tenderfoot-6-a3",
+              "task": "Back-saver sit-and-reach (Record the distance stretched.)"
+            },
+            {
+              "id": "tenderfoot-6-a4",
+              "task": "1-mile walk/run (Record the time.)"
+            }
+          ],
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-06-b",
+          "rank": "tenderfoot",
+          "sequence": "6",
+          "letter": "b",
+          "requirement": "6b. Develop and describe a plan for improvement in each of the activities listed in Tenderfoot requirement 6a. Keep track of your activity for at least 30 days. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-06-c",
+          "rank": "tenderfoot",
+          "sequence": "6",
+          "letter": "c",
+          "requirement": "6c. Show improvement (of any degree) in each activity listed in Tenderfoot requirement 6a after practicing for 30 days. ",
+          "steps": [
+            {
+              "id": "tenderfoot-6-c1",
+              "task": "Pushups (Record the number done correctly in 60 seconds.)"
+            },
+            {
+              "id": "tenderfoot-6-c2",
+              "task": "Situps or curl-ups (Record the number done correctly in 60 seconds.)"
+            },
+            {
+              "id": "tenderfoot-6-c3",
+              "task": "Back-saver sit-and-reach (Record the distance stretched.)"
+            },
+            {
+              "id": "tenderfoot-6-c4",
+              "task": "1-mile walk/run (Record the time.)"
+            }
+          ],
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-07-a",
+          "rank": "tenderfoot",
+          "sequence": "7",
+          "letter": "a",
+          "requirement": "7a. Demonstrate how to display, raise, lower, and fold the U.S. flag. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-07-b",
+          "rank": "tenderfoot",
+          "sequence": "7",
+          "letter": "b",
+          "requirement": "7b. Participate in a total of one hour of service in one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout slogan and Scout motto. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-08-",
+          "rank": "tenderfoot",
+          "sequence": "8",
+          "letter": "",
+          "requirement": "8. Describe the steps in Scouting Teaching EDGE method. Use the Teaching EDGE method to teach another person how to tie the square knot. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-09-",
+          "rank": "tenderfoot",
+          "sequence": "9",
+          "letter": "",
+          "requirement": "9. Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law in your everyday life.  ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-10-",
+          "rank": "tenderfoot",
+          "sequence": "10",
+          "letter": "",
+          "requirement": "10. While working toward the Tenderfoot rank, and after completing Scout rank requirement 7, participate in a Scoutmaster conference. ",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        },
+        {
+          "id": "tenderfoot-11-",
+          "rank": "tenderfoot",
+          "sequence": "11",
+          "letter": "",
+          "requirement": "11. Successfully complete your board of review for the Tenderfoot rank",
+          "steps": "",
+          "completed": "",
+          "comments": "",
+          "signed": "",
+          "required": true
+        }
+      ],
+      "second-class": [
+        {
+          "id": "1",
+          "firstName": "Kristin",
+          "lastName": "Smith",
+          "occupation": "Teacher",
+          "reviewCount": "6",
+          "reviewScore": "5"
+        }
+      ],
+      "first-class": [
+        {
+          "id": "1",
+          "firstName": "Kristin",
+          "lastName": "Smith",
+          "occupation": "Teacher",
+          "reviewCount": "6",
+          "reviewScore": "5"
+        }
+      ]
+    }
+  ]
+}
